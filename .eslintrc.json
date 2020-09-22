@@ -3,6 +3,7 @@
   "plugins": ["prettier"],
   "rules": {
     "prettier/prettier": "error",
+    "no-continue": "off",
     "no-var": "off"
   }
 }

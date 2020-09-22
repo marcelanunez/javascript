@@ -27,5 +27,3 @@ if (Root.calculateBMI() > Shaw.calculateBMI()) {
     `Both ${Shaw.fullName} with ${Shaw.bmi} and ${Root.fullName} with ${Root.bmi} have the same BMI`
   );
 }
-
-console.log(`This exercise works`);
